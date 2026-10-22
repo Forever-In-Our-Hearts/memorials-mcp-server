@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.foreverinourhearts/memorials",
+  "title": "Forever In Our Hearts",
+  "description": "Read-only lookup of public memorials, funeral notices and partner funeral homes.",
+  "version": "1.0.0",
+  "websiteUrl": "https://foreverinourhearts.co/mcp",
+  "repository": {
+    "url": "https://github.com/Forever-In-Our-Hearts/memorials-mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.foreverinourhearts.co/mcp"
+    }
+  ]
+}
