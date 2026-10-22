@@ -1,0 +1,27 @@
+{
+  "name": "forever-in-our-hearts",
+  "displayName": "Forever In Our Hearts",
+  "version": "1.0.0",
+  "description": "Search public online memorials, funeral notices and partner funeral homes from Forever In Our Hearts. Read-only, no account or API key.",
+  "author": {
+    "name": "Forever In Our Hearts",
+    "email": "contact@foreverinourhearts.co",
+    "url": "https://foreverinourhearts.co"
+  },
+  "homepage": "https://foreverinourhearts.co/mcp",
+  "repository": "https://github.com/Forever-In-Our-Hearts/memorials-mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "memorial",
+    "funeral",
+    "obituary",
+    "funeral-notices",
+    "funeral-homes",
+    "mcp"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://foreverinourhearts.co/mcp",
+  "supportUrl": "https://foreverinourhearts.co/contact",
+  "privacyPolicyUrl": "https://foreverinourhearts.co/privacy-policy",
+  "termsOfServiceUrl": "https://foreverinourhearts.co/terms-and-conditions"
+}

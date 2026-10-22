@@ -45,6 +45,14 @@ Other clients (VS Code, Cursor and similar):
 }
 ```
 
+Claude Code plugin (adds the server for you):
+
+```
+/plugin install forever-in-our-hearts --marketplace Forever-In-Our-Hearts/memorials-mcp-server
+```
+
+This repo is also a plugin for Grok Build and other clients that read `.mcp.json` and `.claude-plugin/plugin.json`.
+
 Test it with the MCP Inspector: `npx @modelcontextprotocol/inspector`, transport Streamable HTTP, the URL above.
 
 ## About
@@ -52,3 +60,7 @@ Test it with the MCP Inspector: `npx @modelcontextprotocol/inspector`, transport
 Forever In Our Hearts makes online memorial websites families pay for once, and branded notice and memorial pages for
 funeral homes. See [foreverinourhearts.co](https://foreverinourhearts.co) and the
 [Funeral Director Network](https://foreverinourhearts.co/funeral-director-network).
+
+## License
+
+MIT. See [LICENSE](LICENSE). This covers the files in this repo; the server itself is operated by Forever In Our Hearts.

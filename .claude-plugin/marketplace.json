@@ -1,0 +1,15 @@
+{
+  "name": "forever-in-our-hearts",
+  "description": "Forever In Our Hearts plugin: read-only lookup of public memorials, funeral notices and partner funeral homes.",
+  "owner": {
+    "name": "Forever In Our Hearts",
+    "email": "contact@foreverinourhearts.co"
+  },
+  "plugins": [
+    {
+      "name": "forever-in-our-hearts",
+      "source": "./",
+      "description": "Search public online memorials, funeral notices and partner funeral homes from Forever In Our Hearts. Read-only, no account or API key."
+    }
+  ]
+}

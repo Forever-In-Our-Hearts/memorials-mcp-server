@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "forever-in-our-hearts": {
+      "type": "http",
+      "url": "https://mcp.foreverinourhearts.co/mcp"
+    }
+  }
+}
