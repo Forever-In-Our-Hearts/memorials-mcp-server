@@ -13,9 +13,9 @@ funeral, or a partner funeral home, and link to the page.
 | Tool | What it does |
 |---|---|
 | `search_notices` | Death and funeral notices by name, service location or funeral home, newest first |
-| `get_notice` | One notice: every service with place, local time, livestream link and notes |
+| `get_notice` | One notice by id or link: every service with place, local time, livestream link and notes |
 | `search_memorials` | Online memorials for people and pets by name |
-| `get_memorial` | One memorial: dates, life story, service details, tribute count and link |
+| `get_memorial` | One memorial by id or link: dates, life story, service details, tribute count and link |
 | `search_funeral_directors` | Partner funeral homes by name, town, postcode or country, with address and contact details |
 
 Every tool takes an optional `region`: `global` (foreverinourhearts.co: US, UK, Canada, Ireland, New Zealand and
